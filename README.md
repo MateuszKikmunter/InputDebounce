@@ -1,5 +1,7 @@
 # InputDebounce
 
+Quick app to play with debounce time when binding directly to input event and not using other options like subscription to valueChanges on a control, etc. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
 ## Development server
